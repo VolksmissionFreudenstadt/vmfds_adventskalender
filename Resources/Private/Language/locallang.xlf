@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-16T16:36:25Z" product-name="vmfds_adventskalender">
+		<header/>
+		<body>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window">
+				<source>Window</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.day">
+				<source>Day</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.event_id">
+				<source>Event Id</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.address">
+				<source>Address</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.phone">
+				<source>Phone</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.notes">
+				<source>Notes</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.internal_notes">
+				<source>Internal Notes</source>
+			</trans-unit>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.image">
+				<source>Image</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-09-16T16:36:25Z" product-name="vmfds_adventskalender">
+		<header/>
+		<body>
+			<trans-unit id="day.description">
+				<source>day</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>type</source>
+			</trans-unit>
+			<trans-unit id="event_id.description">
+				<source>eventId</source>
+			</trans-unit>
+			<trans-unit id="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="address.description">
+				<source>address</source>
+			</trans-unit>
+			<trans-unit id="phone.description">
+				<source>phone</source>
+			</trans-unit>
+			<trans-unit id="email.description">
+				<source>email</source>
+			</trans-unit>
+			<trans-unit id="notes.description">
+				<source>notes</source>
+			</trans-unit>
+			<trans-unit id="internal_notes.description">
+				<source>internalNotes</source>
+			</trans-unit>
+			<trans-unit id="image.description">
+				<source>image</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

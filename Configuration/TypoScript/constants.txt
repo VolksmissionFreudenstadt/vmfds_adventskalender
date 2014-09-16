@@ -1,0 +1,15 @@
+
+plugin.tx_vmfdsadventskalender {
+	view {
+		# cat=plugin.tx_vmfdsadventskalender/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:vmfds_adventskalender/Resources/Private/Templates/
+		# cat=plugin.tx_vmfdsadventskalender/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:vmfds_adventskalender/Resources/Private/Partials/
+		# cat=plugin.tx_vmfdsadventskalender/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:vmfds_adventskalender/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_vmfdsadventskalender//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}
