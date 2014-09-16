@@ -7,7 +7,7 @@ CREATE TABLE tx_vmfdsadventskalender_domain_model_window (
 	pid int(11) DEFAULT '0' NOT NULL,
 
 	day int(11) DEFAULT '0' NOT NULL,
-	type int(11) DEFAULT '0' NOT NULL,
+	record_type int(11) DEFAULT '0' NOT NULL,
 	event_id varchar(255) DEFAULT '' NOT NULL,
 	name varchar(255) DEFAULT '' NOT NULL,
 	address varchar(255) DEFAULT '' NOT NULL,

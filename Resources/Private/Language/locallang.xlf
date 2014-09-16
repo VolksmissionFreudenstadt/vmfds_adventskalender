@@ -4,37 +4,37 @@
 		<header/>
 		<body>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window">
-				<source>Window</source>
+				<source>Fenster</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.day">
-				<source>Day</source>
+				<source>Tag</source>
 			</trans-unit>
-			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.type">
-				<source>Type</source>
+			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.record_type">
+				<source>Typ</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.event_id">
-				<source>Event Id</source>
+				<source>ID der Veranstaltung</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.name">
-				<source>Name</source>
+				<source>Veranstalter</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.address">
-				<source>Address</source>
+				<source>Straße und Hausnummer</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.phone">
-				<source>Phone</source>
+				<source>Telefon</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.email">
-				<source>Email</source>
+				<source>E-Mail</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.notes">
-				<source>Notes</source>
+				<source>Hinweise</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.internal_notes">
-				<source>Internal Notes</source>
+				<source>Interne Notizen</source>
 			</trans-unit>
 			<trans-unit id="tx_vmfdsadventskalender_domain_model_window.image">
-				<source>Image</source>
+				<source>Bild</source>
 			</trans-unit>
 		</body>
 	</file>
